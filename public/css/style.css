@@ -1,0 +1,65 @@
+body {
+    margin: 40px 0 7em;
+}
+
+.pb5 {
+    padding-bottom: 5px;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mt33 {
+    margin-top: 33px;
+}
+
+.txt-small {
+    font-size: 80%;
+}
+
+.bd1 {
+    border: 1px solid #d5d5d5;
+}
+
+.bdt1 {
+    border-top: 1px solid #d5d5d5;
+}
+
+.nav-pills .nav-link:hover {
+    color: #000;
+}
+
+.nav-pills .nav-link.active:hover {
+    color: #fff;
+}
+
+.fixed-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.btn {
+    padding-top: .1rem;
+}
+
+select.form-control {
+    appearance: auto;
+}
+
+.m0 {
+    margin: 0;
+}
+
+.list-group-item {
+    padding: 1rem 0;
+}
+
+.list-group-item img {
+    margin: 5px 0.8rem 2px 0;
+}
