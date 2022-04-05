@@ -12,6 +12,8 @@ php artisan storage:link
 
 There is also an artisan command included. You can use it like this:
 
-```php artisan deleteOldAds```
+```
+php artisan deleteOldAds
+```
 
 Enjoy! :)
